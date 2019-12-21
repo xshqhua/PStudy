@@ -7,7 +7,7 @@ def bubble_sort(arry):
     return arry
 
 
-arry = [5, 4, 3, 1]
-print(arry)
-bubble_sort(arry)
-print(arry)
+array_1 = [5, 4, 3, 1]
+print(array_1)
+bubble_sort(array_1)
+print(array_1)
